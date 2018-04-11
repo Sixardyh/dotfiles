@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cmdout=$(mpc --format "%file%" current)
+IFS='/' read -ra output <<< $cmdout
+
+icon=`find "/home/retvoid/usr/Music/${output[0]}" -name "cover.png"`
+
+name=`mpc --format "%artist% - %title%" current`
+
+notify-send --icon="${icon}" "Now Playing" "${name}"
