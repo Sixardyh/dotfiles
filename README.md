@@ -2,7 +2,11 @@
 Monochrome rice using dark blue tones
 
 ### Screenshots
-uh one moment
+![terminals](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/terminals.png)
+
+![file browsers](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/file_browser.png)
+
+![media](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/media.png)
 
 ### Information
 **WM:** bspwm
