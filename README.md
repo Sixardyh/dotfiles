@@ -8,6 +8,10 @@ Monochrome rice using dark blue tones
 
 ![media](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/media.png)
 
+![neovim](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/nvim.png)
+
+![rofi](https://raw.githubusercontent.com/TheReturningVoid/dotfiles/icy/Screenshots/rofi.png)
+
 ### Information
 - **WM:** bspwm
 - **Terminal:** termite
